@@ -1,0 +1,12 @@
+D:\university\Prihojiy\Lab1\program\GraphLibrary\bin\Debug\net5.0\GraphLibrary.deps.json
+D:\university\Prihojiy\Lab1\program\GraphLibrary\bin\Debug\net5.0\GraphLibrary.dll
+D:\university\Prihojiy\Lab1\program\GraphLibrary\bin\Debug\net5.0\ref\GraphLibrary.dll
+D:\university\Prihojiy\Lab1\program\GraphLibrary\bin\Debug\net5.0\GraphLibrary.pdb
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\GraphLibrary.csproj.AssemblyReference.cache
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\GraphLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\GraphLibrary.AssemblyInfoInputs.cache
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\GraphLibrary.AssemblyInfo.cs
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\GraphLibrary.csproj.CoreCompileInputs.cache
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\GraphLibrary.dll
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\ref\GraphLibrary.dll
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\net5.0\GraphLibrary.pdb

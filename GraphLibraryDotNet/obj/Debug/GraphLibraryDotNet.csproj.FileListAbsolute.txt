@@ -1,0 +1,12 @@
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\bin\Debug\GraphLibraryDotNet.dll
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\bin\Debug\GraphLibraryDotNet.pdb
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.csproj.AssemblyReference.cache
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.csproj.CoreCompileInputs.cache
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.dll
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.pdb
+D:\JavaScript\GraphApp\GraphLibraryDotNet\bin\Debug\GraphLibraryDotNet.dll
+D:\JavaScript\GraphApp\GraphLibraryDotNet\bin\Debug\GraphLibraryDotNet.pdb
+D:\JavaScript\GraphApp\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.csproj.AssemblyReference.cache
+D:\JavaScript\GraphApp\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.csproj.CoreCompileInputs.cache
+D:\JavaScript\GraphApp\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.dll
+D:\JavaScript\GraphApp\GraphLibraryDotNet\obj\Debug\GraphLibraryDotNet.pdb

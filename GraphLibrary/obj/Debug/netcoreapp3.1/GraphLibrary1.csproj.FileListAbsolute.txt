@@ -1,0 +1,9 @@
+D:\university\Prihojiy\Lab1\program\GraphLibrary\bin\Debug\netcoreapp3.1\GraphLibrary1.deps.json
+D:\university\Prihojiy\Lab1\program\GraphLibrary\bin\Debug\netcoreapp3.1\GraphLibrary1.dll
+D:\university\Prihojiy\Lab1\program\GraphLibrary\bin\Debug\netcoreapp3.1\GraphLibrary1.pdb
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\netcoreapp3.1\GraphLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\netcoreapp3.1\GraphLibrary1.AssemblyInfoInputs.cache
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\netcoreapp3.1\GraphLibrary1.AssemblyInfo.cs
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\netcoreapp3.1\GraphLibrary1.csproj.CoreCompileInputs.cache
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\netcoreapp3.1\GraphLibrary1.dll
+D:\university\Prihojiy\Lab1\program\GraphLibrary\obj\Debug\netcoreapp3.1\GraphLibrary1.pdb

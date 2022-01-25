@@ -1,0 +1,16 @@
+D:\university\Prihojiy\Lab1\program\GraphsLab1\bin\Debug\GraphsLab1.exe.config
+D:\university\Prihojiy\Lab1\program\GraphsLab1\bin\Debug\GraphsLab1.exe
+D:\university\Prihojiy\Lab1\program\GraphsLab1\bin\Debug\GraphsLab1.pdb
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.csproj.AssemblyReference.cache
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.Properties.Resources.resources
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.csproj.GenerateResource.cache
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.csproj.CoreCompileInputs.cache
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.exe
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.pdb
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.MainForm.resources
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.GraphView.resources
+D:\university\Prihojiy\Lab1\program\GraphsLab1\bin\Debug\GraphLibraryDotNet.dll
+D:\university\Prihojiy\Lab1\program\GraphsLab1\bin\Debug\GraphLibraryDotNet.pdb
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.csproj.CopyComplete
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.DijkstraForm.resources
+D:\university\Prihojiy\Lab1\program\GraphsLab1\obj\Debug\GraphsLab1.ColorizedForm.resources

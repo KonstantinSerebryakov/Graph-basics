@@ -1,0 +1,27 @@
+﻿=======================
+===       keys      ===
+=======================
+oriented: false
+weighted: false
+verticesCount: 5
+
+=======================
+===     matrices    ===
+=======================
+#matrix
+* * 0 0 *
+* * * 0 0
+0 * * * 0
+0 0 * * *
+* 0 0 * *
+
+=======================
+=        hints        =
+=======================
+1) any comments allowed in this file
+2) * means null value
+3) 0 means zero-weighted value
+4) no rows allowed between #matrix definition and matrix
+5) any spaces allowed
+6) in non-oriented graphs only top-right values handled
+7) top-left - down-right diagonal line always must be null (* filled)

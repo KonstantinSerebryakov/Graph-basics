@@ -1,0 +1,6 @@
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\bin\Release\GraphLibraryDotNet.dll
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\bin\Release\GraphLibraryDotNet.pdb
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Release\GraphLibraryDotNet.csproj.AssemblyReference.cache
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Release\GraphLibraryDotNet.csproj.CoreCompileInputs.cache
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Release\GraphLibraryDotNet.dll
+D:\university\Prihojiy\Lab1\program\GraphLibraryDotNet\obj\Release\GraphLibraryDotNet.pdb
